@@ -1,0 +1,21 @@
+name: trigger fetch workflow in data repo
+
+on: 
+  push:
+  workflow_dispatch:
+
+jobs:
+  trigger_data_wf:
+    name: trigger remove wf
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_USER_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
+    steps:
+      - name: trigger fetch-wf in data
+        run: |
+          status=$(curl --request POST \
+          --url 'https://api.github.com/repos/bundesverfassung-oesterreich/bv-data/dispatches' \
+          --header "authorization: token $GITHUB_USER_TOKEN" \
+          --data '{"event_type": "fetch worflow triggerd bei push in working-data"}')
+          if [ -n "$status" ]; then  exit 1; fi
+          echo "worflwo seems to be running"
