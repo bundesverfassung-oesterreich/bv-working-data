@@ -6,7 +6,7 @@ on:
 
 jobs:
   trigger_data_wf:
-    name: trigger remove wf
+    name: trigger remote bv-data-wf
     runs-on: ubuntu-latest
     env:
       GITHUB_USER_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
@@ -16,6 +16,6 @@ jobs:
           status=$(curl --request POST \
           --url 'https://api.github.com/repos/bundesverfassung-oesterreich/bv-data/dispatches' \
           --header "authorization: token $GITHUB_USER_TOKEN" \
-          --data '{"event_type": "fetch worflow triggerd bei push in working-data"}')
+          --data '{"event_type": "fetch worflow triggerd by push in working-data"}')
           if [ -n "$status" ]; then  exit 1; fi
-          echo "worflwo seems to be running"
+          echo "workflwo seems to be running"
