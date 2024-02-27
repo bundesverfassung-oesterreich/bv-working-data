@@ -7,7 +7,7 @@ Whenever data are being pushed to this repository, they will be fetched automati
 To edit files in this repository follow these steps:
 1. **install Oxygen XML Editor**
 2. **install the project plugin**\
-Oxygen: `Help` (in top bar) > `Install new add-ons` > paste the link for the project plugin into the url-field `Show add-ons fro``, select the plugin and hit install\
+Oxygen: `Help` (in top bar) > `Install new add-ons` > paste the link for the project plugin into the url-field `Show add-ons from:`, select the plugin and hit install\
  (link: `https://bundesverfassung-oesterreich.github.io/bv-schema-framework/ADDON/b-vg-addon.xml`)
 
 3. **install the git plugin**\
