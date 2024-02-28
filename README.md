@@ -1,6 +1,6 @@
 # bv-working-data
 
-This repository is reseverd for files that are being manually changed. Data in `data/editions` should be copied **manually** from the [source-folder](https://github.com/bundesverfassung-oesterreich/bv-transkribus-export/tree/main/editions) in the bv-transkribus-export-repository.
+This repository is reseverd for files that are being manually changed. Data in `data/editions` should be copied **manually** from the [source-folder](https://github.com/bundesverfassung-oesterreich/bv-transkribus-export/tree/main/editions_source) in the bv-transkribus-export-repository.
 Whenever data are being pushed to this repository, they will be fetched automatically by the [data-repository](https://github.com/bundesverfassung-oesterreich/bv-data), where they will be further processed to be finally published at [bv-static](https://github.com/bundesverfassung-oesterreich/bv-static) as a static webpage.
 
 
@@ -27,4 +27,4 @@ In the `destination path` field, provide the path to the directory you just crea
 6. **close Oxygen**
 7. **copy [this file](https://raw.githubusercontent.com/bundesverfassung-oesterreich/bv-schema-framework/main/b-vg.xpr "download") into the directory you just created / cloned to**
 8. **Open Oxygen**
-9. With the git plugin clone [the source repository](https://github.com/bundesverfassung-oesterreich/bv-transkribus-export). If you want to edit a new file, copy it *from the editions folder of the source repository to the your local data/editions folder in this (bv-working-data) repository*. Then open the file in Oxygen, edit and commit it.
+9. With the git plugin clone [the source repository](https://github.com/bundesverfassung-oesterreich/bv-transkribus-export). If you want to edit a new file, copy it *from the editions_source folder of the source repository to the your local data/editions folder in this (bv-working-data) repository*. Then open the file in Oxygen, edit and commit it.
