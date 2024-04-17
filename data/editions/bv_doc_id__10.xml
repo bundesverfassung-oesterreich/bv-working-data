@@ -145,9 +145,9 @@
             <body>
                   <div type="main">
                         <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
-                        <p><hi rend="emphasis">Die Bundesverfassung Oesterreichs </hi><lb
-                                    break="yes"/><hi rend="emphasis">von
-                                    Landeshauptmannstellvertreter Dr. Rehrl.</hi></p>
+                        <p><emph>Die Bundesverfassung Oesterreichs </emph><lb
+                                    break="yes"/><emph>von
+                                    Landeshauptmannstellvertreter Dr. Rehrl.</emph></p>
                         <p>Am 18. September 1919 fand beim Salzburger Lan <lb break="no"/>desrat mit
                               dem Staatssekretär Dr. Michael Mayr <lb break="yes"/>eine Beratung
                               über die zukünftige Verfassung Oester <lb break="no"/>reichs statt.
@@ -170,7 +170,7 @@
                               Landtags <lb break="no"/>partei nicht allzu groß sind.</p>
                         <p> Die Staatsform Oesterreichs ist die einer demokra <lb break="no"
                               />tischen</p>
-                        <p><hi rend="emphasis">Bundesrepublik,</hi></p>
+                        <p><emph>Bundesrepublik,</emph></p>
                         <p> bestehend aus den gleichberechtigten souve <lb break="no"/>ränen Ländern
                               mit der Bundeshauptstadt Wien, <lb break="yes"/>die die Stellung eines
                               Landes inne hat. Das Bun <lb break="no"/>desgebiet ist ein
@@ -192,8 +192,8 @@
                               im vergangenen Jahre das Land bedroht <lb break="yes"/>haben, denen es
                               bei nicht entsprechender Vorbeugungs <lb break="no"/>möglichkeit
                               hilflos ausgeliefert wäre. <lb break="yes"/></p>
-                        <p><hi rend="emphasis">Kompetenz des Bundes und der Länder. <lb break="yes"
-                                    /></hi></p>
+                        <p><emph>Kompetenz des Bundes und der Länder. <lb break="yes"
+                                    /></emph></p>
                         <p>Von einer eigentlichen Kompetenzabsteckung zwischen <lb break="yes"/>den
                               Ländern und dem Bundesstaate kann bei Schaf <lb break="no"/>jung des
                               Bundesstaates ja nicht gesprochen werden, da <lb break="yes"/>die
@@ -203,8 +203,8 @@
                               Konstruktion von Seite der <lb break="yes"/>Regierung gedacht. Es soll
                               an den Bundesstaat über <lb break="no"/>tragen werden die <lb
                                     break="yes"/></p>
-                        <p><hi rend="emphasis">Kompetenz in Gesetzgebung und Vollziehung. <lb
-                                          break="yes"/></hi></p>
+                        <p><emph>Kompetenz in Gesetzgebung und Vollziehung. <lb
+                                          break="yes"/></emph></p>
                         <p>in den auswärtigen Angelegenheiten, im Milität <lb break="no"/>wesen, im
                               Fremdenpolizei- und Paßwesen; wei <lb break="no"/>ters soll übertragen
                               werden die Sicherheits <lb break="no"/>polizei in den Gemeinden, von
@@ -224,7 +224,7 @@
                               Besorgung der auswärtigen Ange <lb break="no"/>legenheiten muß eine
                               gewisse Einschränkung in der Rich <lb break="no"/>tung getroffen
                               werden, daß die Erledigung der </p>
-                        <p><lb break="yes"/><hi rend="emphasis">Anschlußfrage</hi>. <lb break="yes"
+                        <p><lb break="yes"/><emph>Anschlußfrage</emph>. <lb break="yes"
                               /></p>
                         <p>an Deutschland nicht ohne Mitwirkung der Länder er <lb break="no"/>folgen
                               dürfe, da ja ein Anschluß an Deutschland in der <lb break="yes"/>Form,
@@ -238,7 +238,7 @@
                               Länder als Glied <lb break="no"/>taaten Großdeutschlands, jedes
                               einzeln für sich, <lb break="yes"/>anzuschließen hätten. Das <lb
                                     break="yes"/></p>
-                        <p><hi rend="emphasis">Militärwesen,</hi></p>
+                        <p><emph>Militärwesen,</emph></p>
                         <p><lb break="yes"/>das in unserem Staate nur als Sicherheitsein <lb
                                     break="no"/>richtung in Frage kommt, dürfte wohl zur gesetzli
                                     <lb break="no"/>chen Regelung ausschließlich dem Gesamtstaate
@@ -269,7 +269,7 @@
                               Behörden zu sprechen sein.</p>
                         <p>Wir kommen nunmehr zum Abschnitte der Ueber <lb break="no"/>tragung
                               der</p>
-                        <p><hi rend="emphasis">Kompetenz nur in der Gesetzgebung</hi>
+                        <p><emph>Kompetenz nur in der Gesetzgebung</emph>
                         </p>
                         <p>  in jenen Fällen, wo die Vollziehung durch die Länder <lb break="yes"
                               />selbst erfolgt. Hier wäre zu bemerken, daß unter den <lb break="yes"
@@ -297,7 +297,7 @@
                               Bevölkerungswesen schließlich über das Ver <lb break="no"
                               />waltungs-Strafverfahren und die Grundsätze des Ver <lb break="no"
                               />waltungsstrafrechtes. </p>
-                        <p><hi rend="emphasis"><lb break="yes"/>Die Steuerhoheit. </hi></p>
+                        <p><emph><lb break="yes"/>Die Steuerhoheit. </emph></p>
                         <p>Niemals aber können die souveränen Länder zuge <lb break="no"/>ben, daß
                               ihnen die Steuerquellen einseitig vom Staate <lb break="yes"
                               />zugewiesen werden, d. h., daß die Steuerhoheit heim <lb break="yes"
@@ -319,7 +319,7 @@
                               Punkte der <lb break="yes"/>Steuerhoheit ist die ausschließliche
                               Uebertragung auf <lb break="yes"/>den Bund undiskutierbar.</p>
                         <p>Etwas ähnliches gilt betreffend die Festlegung der <lb break="yes"/></p>
-                        <p><hi rend="emphasis">Grundzüge der Verwaltungsorganisation</hi>
+                        <p><emph>Grundzüge der Verwaltungsorganisation</emph>
                               <lb break="yes"/></p>
                         <p>in den Ländern. Darunter soll versteckt die Demo <lb break="no"
                               />kratisierung der Bezirkshauptmann <lb break="no"/>schaften
@@ -341,7 +341,7 @@
                         <p><lb break="yes"/>Schließlich wäre im Zusammenhange mit der Kompe <lb
                                     break="no"/>tenz-Abgrenzung noch die von der Staatsregierung ge
                                     <lb break="no"/>plante Bestimmung.</p>
-                        <p><hi rend="emphasis">„Bundesrecht bricht Landrecht“ </hi><lb break="yes"
+                        <p><emph>„Bundesrecht bricht Landrecht“ </emph><lb break="yes"
                               /></p>
                         <p>zu behandeln. Dieser Grundsatz, der in einem bürokra <lb break="no"
                               />tisch-zentralistischem Staat mit einer verkümmerten <lb break="yes"
@@ -368,7 +368,7 @@
                               Staatsgebiet und die Marktverteilung zwischen <lb break="yes"/>den
                               Gliedstaaten und dem Bundesstaat. <lb break="yes"/></p>
                         <p>Es wäre nunmehr von den <lb break="yes"/></p>
-                        <p><hi rend="emphasis"><lb break="yes"/>Organen des Bundes </hi><lb
+                        <p><emph><lb break="yes"/>Organen des Bundes </emph><lb
                                     break="yes"/></p>
                         <p>  und zwar zuerst von den gesetzgebenden und dann <lb break="yes"/>von
                               den vollziehenden zu sprechen. Zur Schaffung <lb break="yes"/>eines
@@ -383,7 +383,7 @@
                               />einstimmung des Bundestages mit dem Bundesrate <lb break="yes"/>hat
                               bei neuerlicher Aufrechterhaltung des Beschlusses <lb break="yes"
                               />durch dem Bundestag eine <lb break="yes"/></p>
-                        <p><hi rend="emphasis">Volksabstimmung</hi>
+                        <p><emph>Volksabstimmung</emph>
                               <lb break="yes"/></p>
                         <p>zu erfolgen. Eine Volksabstimmung muß außer diesem <lb break="yes"/>Falle
                               stattfinden bei der Totalrevision der Verfassung- <lb break="yes"/>und
@@ -393,7 +393,7 @@
                               />durch den Präsidenten unter Gegenzeichnung des Bun <lb break="no"
                               />deskanzlers. <lb break="yes"/></p>
                         <p>Was die</p>
-                        <p><hi rend="emphasis"><lb break="yes"/>gesetzgebenden Organe </hi><lb
+                        <p><emph><lb break="yes"/>gesetzgebenden Organe </emph><lb
                                     break="yes"/></p>
                         <p> betrifft, so ist nach dem Regierungsentwürfe der Bun <lb break="no"
                               />destag das, was heute die Nationalversammlung ist, <lb break="yes"
@@ -474,7 +474,7 @@
                               Zustimmung des Bundes <lb break="no"/>rates in Aussicht zu nehmen
                               wäre. Nunmehr kommen wir zur Frage des Präsidenten und der Bundes <lb
                                     break="no"/>behörden. </p>
-                        <p><hi rend="emphasis">Die Präsidentschaft.</hi>
+                        <p><emph>Die Präsidentschaft.</emph>
                               <lb break="yes"/></p>
                         <p><lb break="yes"/>Der bisherige Zustand auf diesem Gebiete ist un <lb
                                     break="no"/>haltbar und es ist ein unbedingtes Erfordernis für
@@ -510,7 +510,7 @@
                               zukamen, allerdings sämtlich un <lb break="no"/>ter eigener
                               Verantwortung und verantwortlicher Mit <lb break="no"/>wirkung der
                               Regierung. <lb break="yes"/></p>
-                        <p><hi rend="emphasis">Die Bundesregierung. <lb break="yes"/></hi></p>
+                        <p><emph>Die Bundesregierung. <lb break="yes"/></emph></p>
                         <p>Dem Präsidenten zur Seite steht die Bundesregie <lb break="no"/>rung, die
                               wir analog der Schweizer Verfassung den <lb break="yes"/>Bundesrat
                               nennen wollen. Hier ist der Angel <lb break="no"/>punkt der
@@ -553,7 +553,7 @@
                               />männische Grundtage zu stellen. Insoweit eine Staats <lb break="no"
                               />aussicht notwendig ist, wird dieselbe durch ein eigenes <lb
                                     break="yes"/>Referat in der Bundeskanzlei besorgt.</p>
-                        <p><hi rend="emphasis">Die eigentliche Bundesregierung </hi><lb break="yes"
+                        <p><emph>Die eigentliche Bundesregierung </emph><lb break="yes"
                               /></p>
                         <p>Bundesrat wollen wir dieselbe nennen - wird vom <lb break="yes"
                               />Bundestag und der Länderkammer ge <lb break="no"/>meinsam gewählt
@@ -594,7 +594,7 @@
                               vorgibt, die Kontinuität der Verwal <lb break="no"/>tung aufrecht zu
                               erhalten. </p>
                         <p><lb break="yes"/>Als Durchführungsorgan wird auch das </p>
-                        <p><lb break="yes"/><hi rend="emphasis">Bundesheer</hi>
+                        <p><lb break="yes"/><emph>Bundesheer</emph>
                         </p>
                         <p> von der Staatsregierung bezeichnet, worüber bereits <lb break="yes"/>an
                               anderer Stelle genügend gesagt wurde. Ergänzend <lb break="yes"/>zum
@@ -602,7 +602,7 @@
                               werden, daß das Militär wie bisher in gesetz <lb break="no"/>lich
                               normierten Fällen auch in Einkunft von den Glied <lb break="no"
                               />staaten (Landesregierung) herangezogen werden kann. </p>
-                        <p><hi rend="emphasis">Die Gerichtsbarkeit, </hi><lb break="yes"/></p>
+                        <p><emph>Die Gerichtsbarkeit, </emph><lb break="yes"/></p>
                         <p>die gleichfalls einen Teil der Bundesvollzugsgewalt dar <lb break="no"
                               />stellt, hält die bisherigen Verfassungsgrundsätze im <lb break="yes"
                               />großen und ganzen aufrecht, nur wird bezüglich der <lb break="yes"
@@ -627,7 +627,7 @@
                               />berg, Tirol und Salzburg zu schaffen. </p>
                         <p><lb break="yes"/>Wir kommen nun zu den für uns wichtigsten Ab <lb
                                     break="no"/>schnitt über <lb break="yes"/></p>
-                        <p><hi rend="emphasis">die Gesetzgebung und Vollziehung der Länder. </hi><lb
+                        <p><emph>die Gesetzgebung und Vollziehung der Länder. </emph><lb
                                     break="yes"/></p>
                         <p>Es kann im großen und ganzen, mit Ausnahme eini <lb break="no"/>ger
                               zentralistischer Anwandlungen, die allerdings bei <lb break="yes"
@@ -644,7 +644,7 @@
                                     break="yes"/>Regierung im Lande sein wird — und ihre Uebertra
                                     <lb break="no"/>gung an einen Präsidenten darstellen. </p>
                         <p><lb break="yes"/>Wenn zuerst <lb break="yes"/></p>
-                        <p><hi rend="emphasis">das Zustandekommen eines Landesgesetzes </hi><lb
+                        <p><emph>das Zustandekommen eines Landesgesetzes </emph><lb
                                     break="yes"/></p>
                         <p>besprochen werden soll, so ist der Weg folgender: Gesetz <lb break="no"
                               />beschlüsse, die vom Landtage gefaßt worden sind, sind vor <lb
@@ -680,8 +680,8 @@
                               Weise zu erfolgen hat, daß das Gesetz vom <lb break="yes"/>Präsidenten
                               des Landtages beurkundet- und vom Can <lb break="no"/>deshauptmann
                               gegengezeichnet wird. <lb break="yes"/></p>
-                        <p><hi rend="emphasis"><lb break="yes"/>Die gesamte Regierung im Lande
-                                    </hi><lb break="yes"/></p>
+                        <p><emph><lb break="yes"/>Die gesamte Regierung im Lande
+                                    </emph><lb break="yes"/></p>
                         <p>wird vom Landeshauptmann und so vielen <lb break="yes"/>Beisitzern
                               geführt, als einerseits aus der vom <lb break="yes"/>Bunde her
                               ressortierenden Referate notwendig sind, zu <lb break="no"/>züglich
@@ -750,7 +750,7 @@
                               auch die <lb break="yes"/>Garantie bieten, daß sie den in der
                               Verwaltung an sie <lb break="yes"/>herantretenden Fforderungen gerecht
                               werden können. </p>
-                        <p><hi rend="emphasis">Die Landesvermaltung. </hi></p>
+                        <p><emph>Die Landesvermaltung. </emph></p>
                         <p>Die Föderalisierung ist selbstverständlich nur dann <lb break="yes"/>von
                               Bedeutung, wenn nicht durch Abgrenzung aller mög <lb break="no"
                               />tichen Aemter zugunsten einer zentralistischen Verwaltung, <lb
@@ -840,7 +840,7 @@
                               der Landesregierung <lb break="yes"/>führen darf. <lb break="yes"
                               /></p>
                         <p>Schließlich sei noch auf <lb break="yes"/></p>
-                        <p><hi rend="emphasis">die obersten Gerichtshöfe <lb break="yes"/></hi></p>
+                        <p><emph>die obersten Gerichtshöfe <lb break="yes"/></emph></p>
                         <p>hingewiesen, auf den Bundesverwaltungsge-<lb break="yes"/>22<pb
                                     facs="#facs_7" n="7" xml:id="img_0007" break="yes"/><gap
                                     reason="illegible"/> Unleserlich</p>
@@ -861,8 +861,8 @@
                               Strafgerichtshof und Zivilgerichtshof. </p>
                         <p><lb break="yes"/>Ein ziemlich großer Abschnitt des Regierungsentwur <lb
                                     break="no"/>fes befaßt sich mit den <lb break="yes"/></p>
-                        <p><hi rend="emphasis">Grund- und Freiheitsrechten, <lb break="yes"
-                              /></hi></p>
+                        <p><emph>Grund- und Freiheitsrechten, <lb break="yes"
+                              /></emph></p>
                         <p>die teilweise der deutschen Reichsverwaltung nachgebildet sind, teilweise
                               unsere geltenden Verfassungsbestimmungen <lb break="yes"/>wieder
                               aufgreifen. Insbesondere sind die sogenannten <lb break="yes"/>Kultur-
