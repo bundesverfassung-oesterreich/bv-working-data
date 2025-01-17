@@ -106,7 +106,7 @@
     <text type="Sitzungsprotokoll">
         <body><div type="main">
                 <pb facs="#facs_2" n="2" xml:id="img_0002" break="yes"/>
-                <head>Protokoll der 10.Sitzung des Unterausschueses des Verfassungeausschueses vom
+                <head type="main">Protokoll der 10.Sitzung des Unterausschueses des Verfassungeausschueses vom
                     24. August 1320.</head>
                 <p>Beginn 10 Unr Vormittag.</p>
                 <p>Anwesend:</p>
