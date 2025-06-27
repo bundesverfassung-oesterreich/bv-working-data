@@ -6,7 +6,7 @@ Whenever data are being pushed to this repository, they will be fetched automati
 
 A documentation of the currently used schema can be found [here](https://bundesverfassung-oesterreich.github.io/bv-schema-framework/). If you should ever discover that parts of the schema are outdated, creat an issue and assign it to @cfhaak.
 
-If you want to know more about git, [this resource](https://howto.acdh.oeaw.ac.at/resource/posts/git-collaboration) might be helpful.
+If you want to know more about git, [this resource](https://howto.acdh.oeaw.ac.at/resource/posts/git-collaboration) might be helpful. 
 
 To edit files in this repository follow these steps:
 1. **install Oxygen XML Editor**
