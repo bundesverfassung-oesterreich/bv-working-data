@@ -106,10 +106,10 @@
                               23. April 1920 </date>
                   </creation>
             </profileDesc>
-            <revisionDesc status="created">
+            <revisionDesc status="text_correct">
                   <change when="2024-10-01" who="#cfh">document automatically created</change>
                   <change when="2025-06-07" who="#s_kury">Gegengelesen bis S. 24 (erneut)</change>
-                  <change when="2025-07-11" who="#s_kury">Gegengelesen bis S. 70</change>
+                  <change when="2025-07-19" who="#s_kury">Gegenlesen beendet</change>
             </revisionDesc>
       </teiHeader>
       <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -6747,8 +6747,8 @@
                               <div type="article">
                                     <head>Artikel 131. </head>
                                     <p type="legal_section"><label>(1) </label>Von Staats wegen wird
-                                          weder Religionzunterricht erteilt, noch für die Ausbildung
-                                          von Seelsorgern irgend einer Religion gesorgt Doch ist an
+                                          weder Religionsunterricht erteilt, noch für die Ausbildung
+                                          von Seelsorgern irgend einer Religion gesorgt. Doch ist an
                                           den öffentlichen Volksschulen den Kindern Gelegenheit zu
                                           geben, an dem von den Religionsgesellschaften
                                           veranstalteten Religionsunterricht teilzunehmen.</p>
@@ -6796,17 +6796,17 @@
                                     <p type="legal_section">Wo eine verhältnismäßig beträchtliche
                                           Anzahl von Bundesangehörigen wohnt, die einer Minderheit
                                           nach Nationalität oder Sprache angehört, sind von allen
-                                          Veiträgen, die etwa für Erziehungs- oder
+                                          Beiträgen, die etwa für Erziehungs- oder
                                           Wohltätigkeitszwecke aus öffentlichen Mitteln zugewendet
-                                          werden, diese Minderheiten angemessen. zu beteilen. </p>
+                                          werden, diese Minderheiten angemessen zu beteilen. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 136. </head>
-                                    <p type="legal_section"><label>(1)</label> Das Gigentum ist von
+                                    <p type="legal_section"><label>(1)</label> Das Eigentum ist von
                                           der staatlichen Rechtsordnung verliehen und kann durch sie
                                           entzogen werden. </p>
                                     <p type="legal_section"><label>(2)</label> Die Zwecke, zu denen
-                                          enteignet werden. kann, werden in besonderen Gesetzen, das
+                                          enteignet werden kann, werden in besonderen Gesetzen, das
                                           Enteignungsverfahren wird durch Bundesgesetz geregelt. </p>
                                     <p type="legal_section"><label>(3)</label> In welchen Fällen auf
                                           Verfall oder Einziehung von Gegenständen als Folge einer
@@ -6837,12 +6837,12 @@
                                           staatlich anerkannten Feiertage bleiben als Tage der
                                           Arbeitsruhe gesetzlich geschützt.</p>
                                     <p type="legal_section"><label>(3) </label>Die in den geltenden
-                                          Gesetzen zugünsten der Arbeiter geschaffenen
-                                          Rechtseinrichtungen, insbesondere die Detriebsräte und
-                                          alle schon beftehenden gesetzlichen Maßnahmen des
-                                          Arbeiterschutzes werden verfassungsmäßig gewährleistet Sie
-                                          können zu ungunften der Arbeiter nicht abgeändert werden
-                                          und find weiter auszubauen sowie auf die land- und
+                                          Gesetzen zugunsten der Arbeiter geschaffenen
+                                          Rechtseinrichtungen, insbesondere die Betriebsräte und
+                                          alle schon bestehenden gesetzlichen Maßnahmen des
+                                          Arbeiterschutzes werden verfassungsmäßig gewährleistet.
+                                          Sie können zu ungunsten der Arbeiter nicht abgeändert
+                                          werden und sind weiter auszubauen sowie auf die land- und
                                           forstwirtschaftlichen Arbeiter mit Berücksichtigung der
                                           besonderen Verhältnisse auszudehnen.</p>
                                     <p type="legal_section"><label>(4) </label>Der Bund schafft ein
@@ -6850,9 +6850,9 @@
                               </div>
                               <div type="article">
                                     <head>Artikel 140. </head>
-                                    <p type="legal_section">Das Roalitionsrecht der Arbeiter und
+                                    <p type="legal_section">Das Koalitionsrecht der Arbeiter und
                                           Angestellten ist gewährleistet. Alle Abreden und
-                                          Maßnahmen, welche dieses Recht einzuschränten. oder zu
+                                          Maßnahmen, welche dieses Recht einzuschränken oder zu
                                           behindern suchen, sind nichtig. </p>
                               </div>
                               <div type="article">
@@ -6860,28 +6860,29 @@
                                     <p type="legal_section">Zur Erhaltung der Gesundheit und
                                           Arbeitsfähigkeit, zum Schutze der Mutterschaft und zur
                                           Vorsorge gegen die wirtschaftlichen Folgen von Alter,
-                                          Schwache und Wechselfällen des Lebens<pb facs="#facs_67"
-                                                n="67" xml:id="img_0067" break="yes"/>schafft der
-                                          Bund ein umfassendes Versicherungäwesen, wobei die
-                                          Verwaltung unbeschädet des Aufsichtsrechtes des Staates
-                                          ausschlieklich von den Versicherten selbst zu besorgen
+                                          Schwäche und Wechselfällen des Lebens<pb facs="#facs_67"
+                                                n="67" xml:id="img_0067" break="yes"/><fw
+                                                type="pageNum">71</fw>schafft der Bund ein
+                                          umfassendes Versicherungswesen, wobei die Verwaltung
+                                          unbeschadet des Aufsichtsrechtes des Staates
+                                          ausschließlich von den Versicherten selbst zu besorgen
                                           ist. </p>
                               </div>
                               <div type="article">
                                     <head>Artikel 142. </head>
-                                    <p type="legal_section">Wer in einem Dienft- oder
+                                    <p type="legal_section">Wer in einem Dienst- oder
                                           Arbeitsverhältnis als Angestellter oder Arbeiter steht,
                                           hat das Recht auf die zur Wahrnehmung staatsbürgerlicher
-                                          Rechte und, söweit dadurch der Betrieb nicht erheblich
-                                          geschädigt wird, zur Auzübung ihm übertragener
-                                          öffentlicher Ehrenämter nötigé freie Zeit. Wie weit ihni
+                                          Rechte und, soweit dadurch der Betrieb nicht erheblich
+                                          geschädigt wird, zur Ausübung ihm übertragener
+                                          öffentlicher Ehrenämter nötige freie Zeit. Wie weit ihm
                                           der Anspruch auf Vergütung erhalten bleibt, bestimmt das
-                                          Gefeb. </p>
+                                          Gesetz. </p>
                               </div>
                               <div type="article">
-                                    <head>Artikel 143.. </head>
+                                    <head>Artikel 143.</head>
                                     <p type="legal_section">Jedem Bundesangehörigen soll die
-                                          Möglichteit gegeben werden, durch wirtschaftliche Arbeit
+                                          Möglichkeit gegeben werden, durch wirtschaftliche Arbeit
                                           seinen Unterhalt zu erwerben. Soweit ihm angemessene
                                           Arbeitsgelegenheit nicht nachgewiesen werden kann, wird
                                           für seinen notwendigen Unterhalt gesorgt. Das Nähere wird
@@ -6893,157 +6894,161 @@
                                     Kulturgesetzgebung, insoweit sie im Artikel über allgemeine
                                     Grund- und Freiheitsrechte zum Auzdruck kommen. Durch sie
                                     hindurch zieht sich der große Gedanke, der in unserem
-                                    Parteibrogramm ausgesprochen ist, daß Religion Privatjache ist
+                                    Parteiprogramm ausgesprochen ist, daß Religion Privatsache ist
                                     und Staat und Kirche und Kirche und Schule getrennt werden
                                     müssen.</p>
                         </sp>
                         <sp>
                               <speaker>Herr Vorsitzender Landeshauptmann <emph>Doktor
                                           Rintelen</emph>: </speaker>
-                              <p>Zum Worte gelangt Herr Staatssetretär Dr. Mahr. </p>
+                              <p>Zum Worte gelangt Herr Staatssetretär Dr. Mayr. </p>
                         </sp>
                         <sp>
-                              <speaker>Herr Staatsjekretär <emph>Dr. Mahr:</emph></speaker>
+                              <speaker>Herr Staatssekretär <emph>Dr. Mayr:</emph></speaker>
                               <p> Ich werde Sie nur sehr kurz in Anspruch nehmen. Ich möchte nur
                                     zunächst meiner Befriedigung darüber Ausdruck geben, daß die
-                                    Länderkonferenzwenn sie auch nicht der richtige Ort dafür ist —
-                                    da schließe ich mich den Ausführungen der früheren Rednen an —
-                                    mir Gelegenheit geboten hat, auch in diejem gewiß sehr wichtigen
+                                    Länderkonferenz — wenn sie auch nicht der richtige Ort dafür ist
+                                    — da schließe ich mich den Ausführungen der früheren Rednen an —
+                                    mir Gelegenheit geboten hat, auch in diejen gewiß sehr wichtigen
                                     Kapitel die Anschauungen der sozialdemokratischen Partei
-                                    offiziell kennen zu fernen.</p>
-                              <p>Ich möchte nur mit ein paar Worten auf die Uußerungen der beiden
-                                    Herren Vorredner der Sozialdemokratischen Partei zurückkommen.
+                                    offiziell kennen zu lernen.</p>
+                              <p>Ich möchte nur mit ein paar Worten auf die Äußerungen der beiden
+                                    Herren Vorredner der sozialdemokratischen Partei zurückkommen.
                                     Wenn mir ein Vorwurf gemacht wurde, daß ich die Betimmungen der
-                                    deutschen Verfassung in dieses Rapitel nicht aufgenommen habe,
+                                    deutschen Verfassung in dieses Kapitel nicht aufgenommen habe,
                                     möchte ich diesen Vorwurf allerdings recht bescheiden
                                     zurückweisen. Ich weiß, daß es in den Koalitionsvereinbarungen
-                                    steht, es ift nach deutschem Muster das Kapitel über Grund- und
+                                    steht, es ist nach deutschem Muster das Kapitel über Grund- und
                                     Freiheitsrechte aufzunehmen.</p>
                               <p>Ich habe das auch getan, eigentlich viel weiter, als mir persönlich
                                     lieb war. Ich stehe auf dem Standpunkt, daß es sich nicht um
-                                    eine flabische Nachahmung irgend eines Musters handeln fann.</p>
-                              <p>Was den Inhalt des Entwurfes anbelangt, o möchte ich noch einmal
+                                    eine sklavische Nachahmung irgend eines Musters handeln
+                                    kann.</p>
+                              <p>Was den Inhalt des Entwurfes anbelangt, so möchte ich noch einmal
                                     hervorheben, daß es sich um eine Privatarbeit handelt und daß
                                     ich auf diese Dinge nicht Rücksicht genommen habe, die mancher
                                     der Herren gewünscht hat. Sagen wir: Es ist mehr oder weniger
-                                    eine Privat-Feißarbeit jerade in diesem Kapitel. Wenn Herr Dr.
-                                    Danneberg mancherlei beanftandet hat, daß ich eine andere
+                                    eine Privat-Fleißarbeit gerade in diesem Kapitel. Wenn Herr Dr.
+                                    Danneberg mancherlei beanstandet hat, daß ich eine andere
                                     Fassung über die Rechte des Adels aufgenommen habe, so möchte
                                     ich hinweisen, daß mir gerade da das deutsche Muster fast Wort
                                     für Wort maßgebend gewesen ist. </p>
-                              <p>Es ift vielleicht eine kleine Dosheit von mir. Ich persönlich lege
+                              <p>Es ist vielleicht eine kleine Bosheit von mir. Ich persönlich lege
                                     nicht viel Wert auf Adel und Adelsvorrechte und beabsichtige
                                     nicht in mittelalterliche Zustände zurückzukommen. Eine andere
-                                    Frage ist die des Fideikommisses, des Asulrechtes, des
+                                    Frage ist die des Fideikommisses, des Asylrechtes, des
                                     Preßrechtes usw. Da möchte ich bemerken, daß ein Druckfehler
-                                    vorgekommen ist, der gleich berichtigt wird. Die
+                                    vorgekommen, Grundrechte ist, der gleich berichtigt wird. Die
                                     Gleichberechtigung der Nationalitäten, das Recht der
-                                    Arbeiterschäft sind gewiß höchst wichtige Kabitel und ich habe
+                                    Arbeiterschaft sind gewiß höchst wichtige Kapitel und ich habe
                                     einen größeren Teil davon aufgenommen. Was die
-                                    Gleichberechtigung der Nationalitäten anbelangt, fo möchte ich
+                                    Gleichberechtigung der Nationalitäten anbelangt, so möchte ich
                                     mir erlauben, darauf zu verweisen, daß die bezüglichen
-                                    Destimmunaen fait wortwörtlich aus den Bestimmungen des uns
+                                    Bestimmungen fast wortwörtlich aus den Bestimmungen des uns
                                     leider aufgezwungenen Friedensvertrages aufgenommen wurden.</p>
-                              <p>Ich will mich nicht weiter darüber äußzern. Nur zur großen Frage
-                                    des Wirtschaftslebens will ich bemerken, daß ich gewiß die große
-                                    Bedeutung der wirtschaftlichen Fräge kenne. Aber auch diese
-                                    frage, ebenso wie eine ganze Reihe anderer fragen, die durch die
-                                    übrige Gesetzaebung ohnehin gesetzlich verankert sind, halte ich
+                              <p>Ich will mich nicht weiter darüber äußern. Nur zur großen Frage des
+                                    Wirtschaftslebens will ich bemerken, daß ich gewiß die große
+                                    Bedeutung der wirtschaftlichen Frage kenne. Aber auch diese
+                                    Frage, ebenso wie eine ganze Reihe anderer Fragen, die durch die
+                                    übrige Gesetzgebung ohnehin gesetzlich verankert sind, halte ich
                                     nicht für unbedingt notwendig, in den Verfassungsentwurf
                                     aufzunehmen.</p>
-                              <p>Ich habe allerdinas dagegen nicht viel einzuwenden. Nur stehe ich
-                                    auf dem Standpunkt, daß man in einem so wichtigen Rapitel, wie
-                                    Grund- und Freiheitsrechte, nicht allzuviel sagen. oll, was
-                                    inhaltslosen Phrafen oder einfachen Sätzen, mit denen man sonft
-                                    nichts anfangen fann, gleichsehen würde. Das gleiche gilt vom
+                              <p>Ich habe allerdings dagegen nicht viel einzuwenden. Nur stehe ich
+                                    auf dem Standpunkt, daß man in einem so wichtigen Kapitel, wie
+                                    Grund- und Freiheitsrechte, nicht allzuviel sagen soll, was
+                                    inhaltslosen Phrasen oder einfachen Sätzen, mit denen man sonst
+                                    nichts anfangen kann, gleichsehen würde. Das gleiche gilt vom
                                     Arbeiterrecht. Ich bin sehr dafür, daß moderne Errungenschaften
-                                    auch verfassungsmäßig festgesett werden. Darüber werde ich noch
+                                    auch verfassungsmäßig festgesetzt werden. Darüber werde ich noch
                                     eingehend reden und wir werden uns auch noch einigen und
-                                    vertändigen können. Ich möchte nun zum Schlusse meiner
+                                    verständigen können. Ich möchte nun zum Schlusse meiner
                                     Ausführungen noch auf eines hinweisen. Wir reden immer von
-                                    Rechten und Freiheiten, wir ollten aber auch die Pflichten des
-                                    Staatsbürgers betonen, und in der deutschen Verfassung habe das
-                                    aus einem ganz fpeziellen Grunde nicht heißt es ausdrücklich:
-                                    Grundaufgenommenrechte und Grundpflichten der deutschen
-                                    Staatsbürger.</p>
+                                    Rechten und Freiheiten, wir sollten aber auch die Pflichten des
+                                    Staatsbürgers betonen, und in der deutschen Verfassung — ich
+                                    habe das aus einem ganz speziellen Grunde nicht aufgenommen —
+                                    heißt es ausdrücklich: Grundrechte und Grundpflichten der
+                                    deutschen Staatsbürger. </p>
                               <p>Nach meiner Auffassung sollte man das zweite ebenso stark betonen
-                                    wie das erfte. Zu den Ausführungen des Herrn Speiser nur zwei
+                                    wie das erste. Zu den Ausführungen des Herrn Speiser nur zwei
                                           <pb facs="#facs_68" n="68" xml:id="img_0068" break="yes"
-                                          /><fw type="pageNum">72</fw> Wortc. Das Verhältnis von
-                                    Kirche, Schule und Ehe zum Staate ift gewis hochwichtig und
-                                    mußin der Verfassung verankert werden. Und da war ür mich
-                                    folgendes maßgebend. Wenn ich private Arbeit zu leiften habe,
-                                    ftelle ich mich als Vertreter der christlichen Weltanschauung
+                                          /><fw type="pageNum">72</fw> Worte. Das Verhältnis von
+                                    Kirche, Schule und Ehe zum Staate ist gewiß hochwichtig und muß
+                                    in der Verfassung verankert werden. Und da war für mich
+                                    folgendes maßgebend. Wenn ich private Arbeit zu leisten habe,
+                                    stelle ich mich als Vertreter der christlichen Weltanschauung
                                     auf den christlichen Standpunkt, und speziell ist maßgebend für
-                                    mich wenn noch so ein gutes Muster vorliegt wie die deutsche
+                                    mich, wenn noch so ein gutes Muster vorliegt wie die deutsche
                                     Verfassung, daß man die Verhältnisse, wie sie in unserer
-                                    Entwicklung, in der Entwicklung unferer Länder liegen, deshalb
-                                    nicht überfehen darf, sondern fort und fort darauf Rücksicht
-                                    nehmen mußz. Das waren die Grundsätze, die mich bei der
-                                    Abfassung dieses Kapitels geführt haben. </p>
+                                    Entwicklung, in der Entwicklung unserer Länder liegen, deshalb
+                                    nicht übersehen darf, sondern fort und fort darauf Rücksicht
+                                    nehmen muß. Das waren die Grundsätze, die mich bei der Abfassung
+                                    dieses Kapitels geführt haben.</p>
                         </sp>
                         <sp>
                               <speaker>Herr Vorsitzender Landeshauptmann <emph>Doktor
-                                          Nintelen</emph>:</speaker>
+                                          Rintelen</emph>:</speaker>
                               <p> Wir kommen nun zum letzten Punkt der Tagesordnung, zum Artikel
                                     141.</p>
                               <p>Es ist mir nicht mehr in Erinnerung, in welcher Reihenfolge sich
                                     die Herren Delegierten zum Worte gemeldet haben. (Zurufe: „Das
-                                    ist ja gleichgültig1)</p>
-                              <p>Zum Worte gelangt aljo Herr Landeshauptmannstellvertreter Dr.
-                                    Schumächer (Innsbruck).</p>
+                                    ist ja gleichgültig!<choice>
+                                          <sic/>
+                                          <corr>“</corr>
+                                    </choice>)</p>
+                              <p>Zum Worte gelangt also Herr Landeshauptmannstellvertreter Dr.
+                                    Schumacher (Innsbruck).</p>
                         </sp>
                         <sp>
-                              <speaker>Herr Landeshauptmannftellvertreter <emph>DoftorSchuinacher
-                                    </emph>(Innsbruck):</speaker>
-                              <p>Zu diesem Artikel 141 habe ich namens meiner Parteigenoffen eine
-                                    Erflärung abzugeben. (s handelt sich in diesem Artikel um die
+                              <speaker>Herr Landeshauptmannstellvertreter <emph>Doktor
+                                          Schumacher</emph>(Innsbruck):</speaker>
+                              <p>Zu diesem Artikel 141 habe ich namens meiner Parteigenossen eine
+                                    Erklärung abzugeben. Es handelt sich in diesem Artikel um die
                                     Entscheidungen und Verfügungen der Landesbehörde in
-                                    Angelegenheiten, deren Vollzug den Ländern übertragen ift. also
+                                    Angelegenheiten, deren Vollzug den Ländern übertragen ist, also
                                     um Angelegenheiten, die bereits in den Artikeln 11 und 12
                                     behandelt sind. Zum Schutze der Bundesinteressen, aber auch der
                                     Interessen der anderen Länder, wenn solche Interessen durch die
                                     Entscheidung der Landesbehörde berührt werden oder wenn solche
                                     andere Länder darum ansuchen, ist hier ein Eingreifen der
-                                    Bundesregierung vorgesehen. Entscheiden foll der
-                                    Verwaltungsgerichtshöf.</p>
+                                    Bundesregierung vorgesehen. Entscheiden soll der
+                                    Verwaltungsgerichtshof. </p>
                               <p>Damit nun der Verwaltungsgerichtshof in allen Fällen diese Aufgabe
-                                    erfüllen kann, ift in diesem Artikel feine Kompetenz ausgedehnt
+                                    erfüllen kann, ist in diesem Artikel keine Kompetenz ausgedehnt
                                     auch auf Fälle, in denen die Entscheidung der Landesbehörde nach
                                     freiem Ermessen erfolgt ist.</p>
                               <p>Diese Bestimmung ist gewiß von der besten Absicht getragen; es ist
                                     aber bei Durchführung dieser Absicht eine Neuerung eingetreten,
-                                    die wir für außzerordentlich bedenklich halten.</p>
+                                    die wir für außerordentlich bedenklich halten.</p>
                               <p>Diese Neuerung besteht darin, daß der Verwaltungsgerichtshof zu
-                                    Entscheidungen auch in jenen Fällen berufen ift, wo nur ein
-                                    administratives Ermessen vorgelegen ift. Wir halten dafür, daß
-                                    dadurch der Verwaltungsgerichtshof auf dieses ebiet geführt wird
-                                    und daß das ganze Gebäude des Verwaltungsgerichtshofes in Gefahr
-                                    kommt, wackelig zu werden.</p>
+                                    Entscheidungen auch in jenen Fällen berufen ist, wo nur ein
+                                    administratives Ermessen vorgelegen ist. Wir halten dafür, daß
+                                    dadurch der Verwaltungsgerichtshof auf dieses Gebiet geführt
+                                    wird und daß das ganze Gebäude des Verwaltungsgerichtshofes in
+                                    Gefahr kommt, wackelig zu werden.</p>
                               <p>Wir wünschen, daß der Verwaltungsgerichtshof so wie bisher in
                                     solchen Fällen nicht zu entscheiden berufen sein soll und
                                     deshalb möchte ich bitten, von den Funktionen des
-                                    Verwaliungsgerichtshofes, wie sie in diesem Artikel vorgesehen
+                                    Verwaltungsgerichtshofes, wie sie in diesem Artikel vorgesehen
                                     sind, abzusehen. Uns ist es lieber, wenn in der dritten Instanz
                                     nicht der Verwaltungsgerichtshof, sondern direkt eine
                                     Bundesbehörde entscheidet.</p>
                         </sp>
                         <sp>
                               <speaker>Herr Vorsitzender Landeshauptmann <emph>Dokter
-                                          Mintelen</emph> (Steiermark):</speaker>
-                              <p>Herr Landeshauptmanntellvertreter Breufiler (Salzburg) hat das
+                                          Rintelen</emph> (Steiermark):</speaker>
+                              <p>Herr Landeshauptmannstellvertreter Preußler (Salzburg) hat das
                                     Wort. </p>
                         </sp>
                         <sp>
-                              <speaker>Herr Landeshauptmannstellvertreter <emph>Prenkler</emph>
+                              <speaker>Herr Landeshauptmannstellvertreter <emph>Preußler</emph>
                                     (Salzburg):</speaker>
                               <p>Nachdem aus der Verwaltungsgerichtshofpraxis hervorgeht, daß
-                                    Entscheidungen nach freiem Ermeisen sehr unliebsame Verletzungen
+                                    Entscheidungen nach freiem Ermessen sehr unliebsame Verletzungen
                                     privatrechtlicher Natur hervorbringen, wird es notwendig sein,
                                     die Bundesinteressen noch durch verschärfte Bestimmungen, als
-                                    wie sie im Artikel 141 des Vorentwurfes vorgefehen find,
+                                    wie sie im Artikel 141 des Vorentwurfes vorgesehen sind,
                                     unbedingt zu schützen. Wir stellen uns daher auf den Standpunkt
-                                    folgender Bestimmungen (lieft): </p>
+                                    folgender Bestimmungen (liest): </p>
                               <quote>
                                     <p>„Zum Schutze der Interessen des Bundes kann die
                                           Bundesregierung gegen Entscheidungen und Verfügungen von
@@ -7053,220 +7058,221 @@
                               </quote>
                         </sp>
                         <sp>
-                              <speaker>Herr Vorsitzender <emph>Dr. Mintelen </emph>(Steiermart): </speaker>
-                              <p>Ich bitte, hat noch jemand zu diesem Punkte etwas zu bemerfen?
-                                    (Niemand meldet fich.) Dann ift die Debatte über diesen Punkt
-                                    geschlössen. Zum Antrage zu diesem Punkte hat Herr Abgeordneter
-                                    Kunschäk (Wien) das Wort. </p>
+                              <speaker>Herr Vorsitzender <emph>Dr. Rintelen </emph>(Steiermark): </speaker>
+                              <p>Ich bitte, hat noch jemand zu diesem Punkte etwas zu bemerken?
+                                    (Niemand meldet sich.) Dann ist die Debatte über diesen Punkt
+                                    geschlossen. Zum Antrage zu diesem Punkt hat Herr Abgeordneter
+                                    Kunschak (Wien) das Wort. </p>
                         </sp>
                         <sp>
-                              <speaker>Herr Abgeordneter <emph>Runschak</emph> (Wien):</speaker>
-                              <p>Ich bitte nur einen furzen Augenblick noch um die Aufmerksamkeit
+                              <speaker>Herr Abgeordneter <emph>Kunschak</emph> (Wien):</speaker>
+                              <p>Ich bitte nur einen kurzen Augenblick noch um die Aufmerksamkeit
                                     der geehrten Herren.</p>
-                              <p>Ich möchte mir erlauben, zwei Anträge zu teflen, durch welche die
+                              <p>Ich möchte mir erlauben, zwei Anträge zu stellen, durch welche die
                                     Konferenz heute hier zu einem Abschluß gebracht werden soll,
                                     aber anderseits auch ein Zustand herbeigeführt werden soll, der
                                     es ermöglicht, im Sinne der Konferenzergebnisse weitere Schritte
-                                    zu unternehmen. Der erste Antrag lautet (lieft):</p>
+                                    zu unternehmen. Der erste Antrag lautet (liest):</p>
                               <quote>
                                     <p>„Die Staatsregierung wird aufgefordert, mit größter
                                           Beschleunigung und unter Berücksichtigung der
-                                          Willensmeinung der Länderkonferenzen in Salzburg und Zinz
-                                          den Entwurf einer Staatsverfafsung auszuarbeiten und
+                                          Willensmeinung der Länderkonferenzen in Salzburg und Linz
+                                          den Entwurf einer Staatsverfassung auszuarbeiten und
                                           vorzulegen.“ </p>
                               </quote>
-                              <p>Der zweite Antrag lautet (lieft): </p>
+                              <p>Der zweite Antrag lautet (liest): </p>
                               <quote>
                                     <p>„Der Landesrat von Steiermark wird ersucht, die Durchführung
-                                          der Willensmeinung der Ländertonferenzen in Salzburg und
-                                          Zinz in die Wegezu leiten und alle hiezu notwendigen oder
+                                          der Willensmeinung der Länderkonferenzen in Salzburg und
+                                          Linz in die Wege zu leiten und alle hiezu notwendigen oder
                                           sich daraus ergebenden Schritte zu unternehmen.“</p>
                               </quote>
-                              <p>Ich glaube zur Begründung dieser beiden Anträgé feine weitere
-                                    Erklärung geben zu müfsen. Sie sprechen für sich selbst und
+                              <p>Ich glaube zur Begründung dieser beiden Anträge keine weitere
+                                    Erklärung geben zu müssen. Sie sprechen für sich selbst und
                                     bitte die verehrten Herren, zu diesen Anträgen Ihre Zustimmung
                                     zu geben.</p>
                         </sp>
                         <sp>
-                              <speaker>Herr Vorsitzender Landeshaubtmann <emph>Doktor Rintelen
-                                    </emph>(Steiermarf): </speaker>
+                              <speaker>Herr Vorsitzender Landeshauptmann <emph>Doktor Rintelen
+                                    </emph>(Steiermark): </speaker>
                               <p>Herr Landeshauptmannstellvertreter Langoth hat das Wort. </p>
                         </sp>
                         <sp>
-                              <speaker>Herr Landeshauptmannstellvertreter Vangoth
-                                    (Oberöfterreich):</speaker>
-                              <p> Namens meiner Varteifreünde<pb facs="#facs_69" n="69"
-                                          xml:id="img_0069" break="yes"/>kann ich die Erklärung
-                                    abgeben, daß wir mit den Anträgen des Herrn Landesrates Kunschak
-                                    einverstanden sind. </p>
+                              <speaker>Herr Landeshauptmannstellvertreter <emph>Doktor
+                                          Rintelen</emph>(Oberösterreich):</speaker>
+                              <p> Namens meiner Parteifreunde <pb facs="#facs_69" n="69"
+                                          xml:id="img_0069" break="yes"/><fw type="pageNum"
+                                    >73</fw>kann ich die Erklärung abgeben, daß wir mit den Anträgen
+                                    des Herrn Landesrates Kunschak einverstanden sind. </p>
                         </sp>
                         <sp>
                               <speaker>Herr Vorsitzender Landeshauptmann <emph>Doktor
-                                          Mintelen</emph> (Steiermark): </speaker>
-                              <p>Herr Dr. Dannebera hat das Wort. </p>
+                                          Rintelen</emph> (Steiermark): </speaker>
+                              <p>Herr Dr. Danneberg hat das Wort. </p>
                         </sp>
                         <sp>
-                              <speaker>Herr Dr. Danneberg (Wien): </speaker>
-                              <p>Was den ersten Antrag des Herrn Abgeordneten Kunschaf anbelangt,
+                              <speaker>Herr <emph>Dr. Danneberg</emph> (Wien): </speaker>
+                              <p>Was den ersten Antrag des Herrn Abgeordneten Kunschak anbelangt,
                                     daß die Regierung, wenn ich recht verstanden habe, aufgefordert
                                     werde, schleunigst einen Verfassungsentwurf unter
                                     Berücksichtigung der Meinungsäußerungen auf den beiden
                                     Länderkonferenzen vorzulegen, möchte ich im Namen meiner Partei
                                     dazu folgendes bemerken. Wir sind dafür, daß die Regierung
                                     schleunigst einen Entwurf der Verfassung vorlegt, wir sind
-                                    dafür, daß sie dabei berücksichtiat, was als Meinungzäußerungen
+                                    dafür, daß sie dabei berücksichtigt, was als Meinungsäußerungen
                                     auf den Konferenzen zu Tage getreten ist. Ich muß hinzufügen,
                                     daß in vielen und wichtigen Dingen auf diesen Länderkonferenzen
-                                    ganz verschiedene und entgegengeseßzte Meinungsäußerungen zu
+                                    ganz verschiedene und entgegengesetzte Meinungsäußerungen zu
                                     Tage getreten sind. Und ich für meine Partei verlange
-                                    elbstverständlich, daß die Regierung unsere Meinungsäußerung in
-                                    diesen Dingen berücksichtigt. Gs ist Sache der Herren, zu
+                                    selbstverständlich, daß die Regierung unsere Meinungsäußerung in
+                                    diesen Dingen berücksichtigt. Es ist Sache der Herren, zu
                                     verlangen, daß Ihre Meinungsäußerungen berücksichtigt werden.
                                     Ich möchte das deshalb nur sagen, weil der Antrag des
-                                    Abgeordneten Kunschaf in diesem Punkte eigentlich, wie es mir
+                                    Abgeordneten Kunschak in diesem Punkte eigentlich, wie es mir
                                     vorkommt — ich weiß nicht, wie ich mich eigentlich ausdrücken
-                                    follnicht ganz richtig ist. Bei zwei oder drei entgegengesetzten
-                                    Meinungen kann die Regierung nur eine berückichtigen. (Herr
-                                    Landesrat Runschak: „Wir haben auch einheitliche
-                                    Meinungen1“)</p>
-                              <p>Sa, das habe ich ja hervorgehoben.</p>
+                                    soll — nicht ganz richtig ist. Bei zwei oder drei
+                                    entgegengesetzten Meinungen kann die Regierung nur eine
+                                    berücksichtigen. (Herr Landesrat Kunschak: „Wir haben auch
+                                    einheitliche Meinungen!“)</p>
+                              <p>Ja, das habe ich ja hervorgehoben.</p>
                               <p>Ich bin dafür, daß überall dort, wo keine einheitliche
-                                    Meinungsäußerung vorhanden ift, die sozialdemokratische
+                                    Meinungsäußerung vorhanden ist, die sozialdemokratische
                                     berücksichtigt werden soll. Ich möchte bei der Gelegenheit
-                                    feftstellen, daß es sehr viele Bestimmungen im Entwurfe des
-                                    Staatäsetretärs Dr. Mahr gibt, wovon ich gestern in der
+                                    feststellen, daß es sehr viele Bestimmungen im Entwurfe des
+                                    Staatssekretärs Dr. Mayr gibt, wovon ich gestern in der
                                     Generaldebatte gesprochen habe, mit denen wir nicht
                                     einverstanden sind, über die wir nicht sprechen konnten, weil
                                     die Zeit nicht ausreicht und die Bestimmungen nicht alle auf die
                                     Tagesordnung gestellt werden konnten. Es darf aber nicht das
                                     lateinische Sprichwort gelten: „Quid tacet, consentire videtur.“
-                                    Wir ftimmen nicht zu, wo wir nicht gesprochen haben, weil keine
+                                    Wir stimmen nicht zu, wo wir nicht gesprochen haben, weil keine
                                     Gelegenheit dazu war. Was den zweiten Antrag des Herrn
-                                    Landesrates Kunschaf anbelangt, daß der Landesrat von Steiermark
+                                    Landesrates Kunschak anbelangt, daß der Landesrat von Steiermark
                                     die Aufgabe überwiesen bekommt, für die Durchführung der
                                     Anerkennung der Beschlüsse der Länderkonferenz zu sorgen, um
                                     alle notwendigen Schritte zu unternehmen, kann ich diesen
-                                    Auftrag nur dahin auffassen, daß eben ein Protofoll dieser
+                                    Auftrag nur dahin auffassen, daß eben ein Protokoll dieser
                                     Länderkonferenz verfaßt wird, so wie das bei der Länderkonferenz
                                     in Salzburg geschehen ist, und daß dieses Protokoll der
                                     Regierung übermittelt wird. Wozu da sich ein eigener Landesrat
-                                    strapazieren soll, das weiß ich nicht, Der Herr Staatssekretär
+                                    strapazieren soll, das weiß ich nicht. Der Herr Staatssekretär
                                     hat uns eingeladen und wir haben vor ihm unsere
                                     Meinungsäußerungen abgegeben und er als Mitglied der Regierung
-                                    wird in der Tage sein, die Beschlüsse und Meinungen der
-                                    Salzbürger Länderkonférenz zur Kenntnis zu bringen.</p>
+                                    wird in der Lage sein, die Beschlüsse und Meinungen der
+                                    Salzburger Länderkonferenz zur Kenntnis zu bringen. </p>
                               <p>Es scheint hier eine besondere Aufgabe für einen Landesrat nicht
-                                    gerade notwendig. Man könnte nur, fofern die Herren glauben, daß
-                                    noch eine Ffrage den Landesrat von Steiermark interessieren
+                                    gerade not wendig. Man könnte nur, sofern die Herren glauben,
+                                    daß noch eine Frage den Landesrat von Steiermark interessieren
                                     würde, eine neue Länderkonferenz einberufen, wenn Sie es für
-                                    notwendig halten, mit den Landesräten der einzelnen Länder
-                                    Verbindung zu setzen. Ich für meine Person glaube, daß sich eine
-                                    dritte Länderkonferenz nicht für notwendig erweisen wird, um so
-                                    weniger, als die Roalitionsvereinbarungen ja vorfehen, daß, wenn
-                                    die Regierung mit einem Entwürf in den Verassungsausschuß der
-                                    Nationalversammlung kommt, den Vertretern der Landesregierung
-                                    dort Gelejenheit gegeben fein wird, den Beratungen der
-                                    Nationalversammlung anzuwohnen und ihre Meinungen dort zu
-                                    äußzern. Der zweite Antrag des Herrn Abgeordneten Kunschak
-                                    erscheint mir nicht notwendig. Den ersten nehmen wir mit den
-                                    Einschränkungen und Bemerkungen, die zu machen ich mir erlaubt
-                                    habe, an.</p>
+                                    notwendig halten, sich mit den Landesräten der einzelnen Länder
+                                    in Verbindung zu setzen. Ich für meine Person glaube, daß sich
+                                    eine dritte Länderkonferenz nicht für notwendig erweisen wird,
+                                    um so weniger, als die Koalitionsvereinbarungen ja vorsehen,
+                                    daß, wenn die Regierung mit dem Entwurf in den
+                                    Verfassungsausschuß der Nationalversammlung kommt, den Vertreter
+                                    der Landesregierung dort Gelegenheit gegeben sein wird, den
+                                    Beratungen der Nationalversammlung anzuwohnen und ihre Meinungen
+                                    dort zu äußern. Der zweite Antrag des Herrn Abgeordneten
+                                    Kunschak erscheint mir nicht notwendig. Den ersten nehmen wir
+                                    mit den Einschränkungen, die zu machen ich mir erlaubt habe, an.
+                              </p>
                         </sp>
                         <sp>
                               <speaker>Herr Vorsitzender Landeshauptmann <emph>Doktor
                                           Rintelen:</emph></speaker>
-                              <p>Herr Abgeordneter Kunschak hat das Wort</p>
+                              <p>Herr Abgeordneter Kunschak hat das Wort.</p>
                         </sp>
                         <sp>
                               <speaker>Herr Abgeordneter <emph>Kunschak</emph> (Wien):</speaker>
-                              <p> Ich habe nur ganz furz zur Enthüllung meiner Abichten, die ich
-                                    gehabt habe, einige Bemerkungen zu machen. Zunächst händelt es
-                                    sich darum, daß emand vorhanden ist, der unsere Arbeiten, die
+                              <p>Ich habe nur ganz kurz zur Enthüllung meiner Absichten, die ich
+                                    gehabt habe, einige Bemerkungen zu machen. Zunächst handelt es
+                                    sich darum, daß jemand vorhanden ist, der unsere Arbeiten, die
                                     wir in Salzburg und Linz geleistet haben, am zuständigen Ort
                                     vertritt. Wir haben nicht nur für uns und für die Zeitungen
                                     gearbeitet, wir haben offizielle Arbeit geleistet und die soll
-                                    doch auch irgendwo ihren Auzdruck finden und zur Kenntnis
+                                    doch auch irgendwo ihren Ausdruck finden und zur Kenntnis
                                     gebracht werden. In erster Linie gilt das für die Regierung. Ich
                                     halte mich überzeugt, daß der Herr Staatskanzler gewiß die
                                     Berichte lesen wird über die Länderkonferenz, aber er ist nicht
                                     verpflichtet, davon nähere Kenntnis zu nehmen und ebensowenig
                                     ist der Herr Staatssekretär verpflichtet, hier der Vertreter,
-                                    der Vormund der Länderkonferenz zu fein und unfere Angelegenheit
-                                    gegenüber dem Staatsfanzler zur Sprache zu bringen.</p>
+                                    der Vormund der Länderkonferenz zu sein und unsere Angelegenheit
+                                    gegenüber dem Staatskanzler zur Sprache zu bringen. </p>
                               <p>Wir haben den Weg gewählt, jeweils einen Landesrat mit der Aufgabe
                                     zu betrauen, und diese Aufgabe übernimmt der steiermärkische
                                     Landesrat. Was sich weiter ergeben wird, wissen wir alle
-                                    miteinänder nicht. Vielleicht ergibt sich die Notwendigkeit,
-                                    eine dritte Länderkonferenz einzuberufen. Ich hälte es für den
+                                    miteinander nicht. Vielleicht ergibt sich die Notwendigkeit,
+                                    eine dritte Länderkonferenz einzuberufen. Ich halte es für den
                                     Augenblick nicht für wahrscheinlich, daß es dazu kommt, aber
                                     immerhin für möglich. Wenn sich eine solche Notwendigkeit er<pb
-                                          facs="#facs_70" n="70" xml:id="img_0070" break="no"/>geben
-                                    follte, dann mußz iemand da fein, der diese Notwendigkeit
-                                    erkennt. der diese Notwendigkeit in einem Kreise bespricht,
-                                    parteimäßig bespricht, was in Steiermark möglich ist, weil dort
-                                    alle drei Varteien in der Landesregierung vertreten find, und
-                                    der die notwendigen Vorarbeiten und Durchführungen bollzieht. Es
-                                    mußz auch für diese ebentuellen Fälle vorgeforgt fein.</p>
+                                          facs="#facs_70" n="70" xml:id="img_0070" break="no"/><fw
+                                          type="pageNum">74</fw>geben sollte, dann muß jemand da
+                                    sein, der diese Notwendigkeit erkennt, der diese Notwendigkeit
+                                    in einem Kreise bespricht, parteimäßig bespricht, was in
+                                    Steiermark möglich ist, weil dort alle drei Parteien in der
+                                    Landesregierung vertreten sind, und der die notwendigen
+                                    Vorarbeiten und Durchführungen vollzieht. Es muß auch für diese
+                                    eventuellen Fälle vorgesorgt sein.</p>
                               <p>In diesem Sinne habe ich den Antrag gestellt und bitte die
-                                    Vertreter der fozialdemokratichen Partei. in diesem Antrage
+                                    Vertreter der sozialdemokratischen Partei, in diesem Antrage
                                     nichts anderes zu suchen, als was ich jetzt ausgeführt habe.
                                     Wenn Sie das tun, so können Sie ohneweiters Ihre Stimme für
-                                    diesen Antrag abgeben.</p>
+                                    diesen Antrag abgeben. </p>
                         </sp>
                         <sp>
                               <speaker>Herr Vorsitzender Landeshauptmann <emph>Doktor
-                                          Mintelen</emph>:</speaker>
+                                          Rintelen</emph>:</speaker>
                               <p>Wünscht noch jemand das Wort? Da ist bezüglich dieses Punktes eine
                                     Einstimmigkeit nicht vorhanden. Es ist seinerzeit beschlossen
                                     worden, keine Abstimmungen vorzunehmen.</p>
-                              <p>Jedenfalls fann das nur in den einzelnen Parteien geschehen.</p>
+                              <p>Jedenfalls kann das nur in den einzelnen Parteien geschehen.</p>
                               <p>Abgestimmt wird ja hier nicht.</p>
                               <p>Ist hier doch nicht noch eine Einigung möglich?</p>
                         </sp>
                         <sp>
-                              <speaker>Herr Abgeordneter Runschak (Wien):</speaker>
-                              <p> Es muß emand da fein, der die Sache zum A6- doch schluß
-                                    bringt.</p>
+                              <speaker>Herr Abgeordneter <emph>Kunschak</emph> (Wien):</speaker>
+                              <p> Es muß doch jemand da sein, der die Sache zum Abschluß bringt.
+                              </p>
                         </sp>
                         <sp>
-                              <speaker>Herr Gemeinderat <emph>Dr. Danneberg</emph> (Wien); </speaker>
-                              <p>Der Herr Staatsfanzler hat einen Referenten hieher geschickt, daß
+                              <speaker>Herr Gemeinderat <emph>Dr. Danneberg</emph> (Wien):</speaker>
+                              <p>Der Herr Staatskanzler hat einen Referenten hieher geschickt, daß
                                     er der Verhandlung folgen und auch berichten soll. Der Herr
-                                    Staatssekretär ist auch der Referent, fein Vormund, aber
-                                    Vollzugsorgan der Länder.</p>
+                                    Staatssekretär ist auch der Referent, kein Vormund, aber
+                                    Vollzugsorgan der Länder. </p>
                         </sp>
                         <sp>
-                              <speaker> Herr Abgeordneter Runschak (Wien): </speaker>
-                              <p>Da nutt nichts. Wir müssen zur Kenntnis nehmen, daß die
-                                    Sozialdemotraten sich für diesen Antrag nicht ausgesprochen
-                                    haben und werden die Sache an den Tandesrat bringen, ob er einem
-                                    solchen Wunsche entsprechen will.</p>
+                              <speaker> Herr Abgeordneter <emph>Kunschak</emph> (Wien): </speaker>
+                              <p>Da nutzt nichts. Wir müssen zur Kenntnis nehmen, daß die
+                                    Sozialdemokraten sich für diesen Antrag nicht ausgesprochen
+                                    haben und werden die Sache an den Landesrat bringen, ob er einem
+                                    solchen Wunsche entsprechen will. </p>
                         </sp>
                         <sp>
-                              <speaker>Herr Landeshauptmann Dr. Rintelen: </speaker>
+                              <speaker>Herr Landeshauptmann <emph>Dr. Rintelen</emph>: </speaker>
                               <p>Für diesen Antrag erklären sich die Christlichsozialen und
                                     Großdeutschen, die Sozialdemokraten lehnen ihn ab. (Herr Dr.
-                                    Danneberg: „Für den ersten Antrag sind wir auch 1“ </p>
-                              <p>Hat noch jemand eine Anregung oder einen Antrag? (Gs ift nicht der
-                                    Fall.</p>
-                              <p>Wenn ich hiemit die Linzer Länderkonferenz chließe, kann ich mit
+                                    Danneberg: „Für den ersten Antrag sind wir auch!“)</p>
+                              <p>Hat noch jemand eine Anregung oder einen Antrag? (Es ist nicht der
+                                    Fall.) </p>
+                              <p>Wenn ich hiemit die Linzer Länderkonferenz schließe, kann ich mit
                                     Vergnügen feststellen, daß sie sich würdig an die Salzburger
                                     Beratungen angeschlossen hat. Der Erfolg liegt darin, daß durch
                                     gegenseitige Aussprache manche Differenzen überbrückt oder doch
                                     gewisse Annäherungen erzielt worden sind. Aber auch dort, wo
-                                    Gegensätze geblieben find, wurde durch Herausarbeitung der
+                                    Gegensätze geblieben sind, wurde durch Herausarbeitung der
                                     prinzipiellen Auffassung die weitere Entwicklung der Sache
-                                    gefördert, wie überhaupt die Ländertonferenzen den Vorteil
-                                    haben, daß sie die Länderpfnchologisch einander näher bringen,
-                                    was auch dem Staaté als Ganzem gewiß förderlich ist.</p>
+                                    gefördert, wie überhaupt die Länderkonferenzen den Vorteil
+                                    haben, daß sie die Länder psychologisch einander näher bringen,
+                                    was auch dem Staate als Ganzem gewiß förderlich ist. </p>
                               <p>Indem ich nochmals dem Linzer Landesrate für die Aufmerksamkeit und
-                                    Gaftfreundschaft danke, reut es mich, der Genuatuung Ausdruck
-                                    geben zu können, daß wir durch die wefentliche Förderung des
+                                    Gastfreundschaft danke, freut es mich, der Genugtuung Ausdruck
+                                    geben zu können, daß wir durch die wesentliche Förderung des
                                     Verfassungswerkes dem Ausbau des Staatswesens, für den die
                                     Länderkonferenz stets geschichtliche Bedeutung haben wird,
                                     wieder ein so beträchtliches Stück näher gekommen sind. Die
                                     Länder nehmen es für sich in Anspruch, ihren Einfluß auf den
-                                    weiteren Ausbau des Verfafsungswerfes entsprechend zur Geltung
+                                    weiteren Ausbau des Verfassungswerkes entsprechend zur Geltung
                                     zu bringen. </p>
                               <p>Die Konferenz ist geschlossen.</p>
                               <p>(Schluß der Sitzung um 12 Uhr mittags.)</p>
