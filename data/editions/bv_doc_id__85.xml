@@ -100,7 +100,7 @@
         <revisionDesc status="structured">
             <change when="2025-07-29" who="#cfh">document automatically created</change>
             <change when="2025-07-31" who="#m_huber">@ Sophia: Gegenlesen</change>
-            <change when="2025-08-08" who="#s_kury">Neu Geschrieben bis § 32</change>
+            <change when="2025-08-08" who="#s_kury">Neu geschrieben bis S. 7, § 47</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xmlns="http://www.tei-c.org/ns/1.0">
@@ -373,33 +373,101 @@
                         </div>
                         <div type="section">
                             <head>a) Bundesverbote:</head>
-                            <div type="article"/>
-                            <div type="article"/>
-                            <div type="article"/>
-                            <div type="article"/>
-                            <div type="article"/>
-                            <div type="article"/>
-                            <div type="article"/>
-                            <div type="article"/>
+                            <div type="article">
+                                <head>§ 32</head>
+                                <p>Das Verbot, Gesetze zu beschliessen, die gegen die Gleichheit der
+                                    Bürger vor dem Gesetz verstossen.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 33</head>
+                                <p>Das Verbot, Strafgesetze mit rückwirkender Kraft zu
+                                    beschliessen.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 34</head>
+                                <p>Das Verbot die Todesstrafe auf politische Vergehen zu setzen.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 35</head>
+                                <p>Das Verbot der Rechtsverweigerung.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 36</head>
+                                <p>Das Verbot der Verletzung des Hausrechtes.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 37</head>
+                                <p>Das Verbot der Verletzung der persönlichen Freiheit.</p>
+                            </div>
                             <div type="article">
                                 <pb facs="#facs_5" n="5" xml:id="img_0005" break="yes"/>
                                 <fw type="pageNum">5</fw>
                             </div>
-                            <div type="article"/>
-                            <div type="article"/>
+                            <div type="article">
+                                <head>§ 38</head>
+                                <p>Das Verbot Spielbanken auf dem Bundesterritorium zu dulden.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 39</head>
+                                <p>Das Verbot innerhalb genauer, vom Bundesrat auf dem
+                                    Verfassungsweg gezogener Grenzen die Coalitions- Press- und
+                                    Glaubensfreiheit zu beschränken.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 40</head>
+                                <p>Das Verbot der Errichtung von Zollgrenzen innerhalb des Bundes.
+                                    Das Recht Tirols zur Einhebung des Getreideaufschlags wird von
+                                    dieser Bestimmung nicht betroffen.</p>
+                            </div>
                         </div>
                         <div type="section">
                             <head>b) Bundesgebote:</head>
-                            <div type="article"/>
-                            <div type="article"/>
+                            <div type="article">
+                                <head>§ 41</head>
+                                <p>Das Gebot innerhalb des Bundes sowie jedes Landes die deutsche
+                                    Sprache als Staatssprache einzuführen. Das Recht Tirols
+                                    eventuelle Ausnahmen von diesem Gebote zu Gunsten der
+                                    bodenständigen ladinischen Bevölkerung zu machen; wird schon vom
+                                    Bundesrate auf dem Wege der Verfassung genau umschrieben.</p>
+                            </div>
+                            <div type="article">
+                                <head>§ 42</head>
+                                <p>Das Gebot innerhalb jedes Landes den Schulzwang für
+                                    Elementarschulen einzuführen, die mindestens Lesen, Schreiben
+                                    und die vier elementaren Rechnungsoperationen lehren.</p>
+                            </div>
                         </div>
                     </div>
                     <div type="section">
                         <head>B. Wirkungskreis der Bundesgewalt.</head>
-                        <div type="article"/>
-                        <div type="article"/>
-                        <div type="article"/>
-                        <div type="article"/>
+                        <div type="article">
+                            <head>§ 43</head>
+                            <p>Der Wirkungskreis der legislativen und exekutiven Bundesgewalt
+                                umfasst alles, was der Bundesrat ihr durch Verfassungsschaffung
+                                zuweist. Ess ist das im Einzelenen das Folgende</p>
+                        </div>
+                        <div type="article">
+                            <head>§ 44</head>
+                            <p>Das Heerwesen aber nur soweit als die Vorbereitung der
+                                Schlagfertigkeit für den Kriegsfall eine gemeinsame Regelung
+                                unbedingt erfordert. Die genauen Grenzen hierfür weden vom Bundesrat
+                                auf dem Wege der Verfassung festgelegt.</p>
+                        </div>
+                        <div type="article">
+                            <head>§ 45</head>
+                            <p>Die Entscheidung über Krieg und Frieden, alle auswärtigen
+                                Angelegenheiten mit Einschluss der diplomatischen und kommerziellen
+                                Vertretung dem Auslande gegenüber, insbesonders der Anschluss von
+                                Staats- und Handelsverträgen sowie die in betreff der
+                                internationalen Verträge notwendigen Verfügungen.</p>
+                        </div>
+                        <div type="article">
+                            <head>§ 46</head>
+                            <p>Die Führung des Bundeshaushaltes, die Verwaltung des Bundesvermögens
+                                und der Bundesschulden, die Regelung des Bundessteuerwesens unter
+                                Benützung der vom Bundesrat auf dem Wege der Verfassung der
+                                Bundesgewalt zur Verfügung gestellten Steuerquellen (§ 23).</p>
+                        </div>
                         <div type="article">
                             <pb facs="#facs_6" n="6" xml:id="img_0006" break="yes"/>
                             <fw type="pageNum">6</fw>
