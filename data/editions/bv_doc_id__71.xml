@@ -61,7 +61,11 @@
             <idno type="bv_data_set">Datenset A</idno>
             <idno type="goobi">18721</idno>
          </publicationStmt>
-         <sourceDesc>
+         <seriesStmt>
+<title>Datenset A</title>
+<biblScope unit="part">2300</biblScope>
+</seriesStmt>
+<sourceDesc>
             <listWit>
                <witness sameAs="#bv_doc_id__27"/>
             </listWit>
