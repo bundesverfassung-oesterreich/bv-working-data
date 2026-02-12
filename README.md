@@ -28,4 +28,4 @@ In the `destination path` field, provide the path to the directory you just crea
 6. **close Oxygen**
 7. **copy [this file](https://raw.githubusercontent.com/bundesverfassung-oesterreich/bv-schema-framework/main/b-vg.xpr "download") into the directory you just created / cloned to**
 8. **Open Oxygen**
-9. With the git plugin clone [the source repository](https://github.com/bundesverfassung-oesterreich/bv-transkribus-export). If you want to edit a new file, copy it *from the editions_source folder of the source repository to the your local data/editions folder in this (bv-working-data) repository*. Then open the file in Oxygen, edit and commit it.
+9. With the git plugin clone [the source repository](https://github.com/bundesverfassung-oesterreich/bv-transkribus-export). If you want to edit a new file, copy it *from the editions_source folder of the source repository to the your local data/editions folder in this (bv-working-data) repository*. Then open the file in Oxygen, edit and commit it. 
